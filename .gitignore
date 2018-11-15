@@ -1,0 +1,29 @@
+# ignore python
+
+*.npy
+*.vector
+*.tgz
+*.gz
+*.model
+*.Morvan
+*.USER-PC
+
+*checkpoint*
+
+*.data*
+
+# ignore java
+*.class
+*.jar
+*.war
+*.ear
+
+# ignore target
+target
+
+# ignore eclipse files
+.idea
+.project
+.classpath
+.settings
+.metadata
